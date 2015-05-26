@@ -143,3 +143,17 @@
 * Reference: 
 	* WebMaker website:  
 	<http://webmaker.org/>
+
+## Next Steps
+### WebGPIO Adapters
+* Ble-GPIO Adapter by Greg Weng  
+<https://github.com/snowmantw/bluefind>
+* Wifi-GPIO
+* socket.io-johnny-five-GPIO
+
+### Johnny Five Adapters
+* Ble
+* Wifi
+* socket.io
+
+### Raspberry Pi
