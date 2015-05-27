@@ -1,7 +1,11 @@
+See latest updates on mozilla wiki: 
+<https://wiki.mozilla.org/Event:Maker_Faire_Taipei>
+
+
 ## WebAPI Demos
 ### Wifi-Direct
 * Hardware: Flame x 2
-* Description: Sync game screen/share files via wifi-direct (no wifi hub needed)
+* Description: Sync game screen/share files via wifi-direct (no wireless hub needed)
 * Reference: 
 	* Hacks article:  
 	<https://hacks.mozilla.org/2015/01/the-p2p-web-wi-fi-direct-in-firefox-os/>
@@ -110,9 +114,13 @@
 	<https://www.youtube.com/watch?v=yUupYX3Rnog>
 
 ### WebVR Panorama
-* Hardware: Android Phone x 1, VR Cardboard x 1
+* Hardware: Android Phone (with Firefox Nightly) x 1, VR Cardboard x 1
 * Description: Simple 3D panorama VR demo
 * Reference: 
+	* WebVR website:
+	<http://webvr.info/> 
+	* WebVR API documentation (draft)
+	<https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API>
 	* Source Code Repo:  
 	<https://github.com/daoshengmu/ConsoleGameOnWeb>
 	* Online Demo:  
@@ -151,9 +159,28 @@
 * Wifi-GPIO
 * socket.io-johnny-five-GPIO
 
-### Johnny Five Adapters
+### Johnny Five Adapters for Web
 * Ble
 * Wifi
 * socket.io
 
 ### Raspberry Pi
+<https://wiki.mozilla.org/Fxos_on_RaspberryPi>
+<http://wiki.mozilla.org/Foxberry_Pi_Demo>
+<https://wiki.mozilla.org/Hacking_b2g_on_Raspberry_Pi>
+
+### Reference Board
+TBD
+
+## More Links
+* <https://wiki.mozilla.org/IoT>
+* <http://johnny-five.io/>
+* <http://devicejs.org/>
+* <http://webduino.io/>
+* WebSerial API  
+<https://bugzilla.mozilla.org/show_bug.cgi?id=926940>
+* WebUSB  
+<https://bugzilla.mozilla.org/show_bug.cgi?id=674718>
+* WebGPIO  
+<https://bugzilla.mozilla.org/show_bug.cgi?id=1166588>
+* <https://github.com/svaarala/duktape/>
